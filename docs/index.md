@@ -67,8 +67,9 @@ Demo服务需要对ECS、VPC等资源进行访问和创建操作，若您使用R
 ### 第三步：创建服务
 
 1. 在服务确认页面，勾选同意服务条款，点击“立即创建”，进行付款流程。
-2. 当出现提交成功提示，说明服务已经开始创建，点击“去列表查看”，可以看到服务正在部署中。 [![1.jpg](https://github.com/aliyun-computenest/quickstart-minecraft/raw/main/docs/3.jpg)](https://github.com/aliyun-computenest/quickstart-minecraft/blob/main/docs/3.jpg)
-
+2. 当出现提交成功提示，说明服务已经开始创建，点击“去列表查看”，可以看到服务正在部署中。
+  <img width="937" alt="image" src="https://github.com/aliyun-computenest/quickstart-multitag/assets/158254627/b46c60ac-438c-4c83-8260-1b1c85a5c1e1">
+ 
 ### 第四步：进入实例详情
 
 1. 服务约5分钟完成创建，当服务的状态变成“已部署”，点击服务实例ID进入服务详情。
